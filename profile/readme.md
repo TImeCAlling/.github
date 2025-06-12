@@ -1,4 +1,5 @@
 # 시간관리의 새로운 습관, TImeCAlling
+<br>
 <img src ="https://github.com/user-attachments/assets/5d0b533a-4bed-422c-90ce-c6e16593371f">
 
 <br>
@@ -56,6 +57,7 @@
 
 <br>
 
-
+## DESIGN SYSTEM
+<img src ="https://github.com/user-attachments/assets/cc48d456-9a61-4a7f-959b-7f3fd24da60f">
 
 <br>
